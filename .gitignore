@@ -3,3 +3,7 @@
 out
 site
 target
+
+# macOS system files
+.DS_Store
+._*
